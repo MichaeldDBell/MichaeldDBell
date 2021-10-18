@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mike Bell
+- 👀 I’m interested in Java web applications
+- 🌱 I’m currently learning Spring
